@@ -10,10 +10,8 @@
     <Folder Include="InterfaceSegregation\Incorrect\" />
     <Folder Include="LiskovSubstitution\Correct\" />
     <Folder Include="LiskovSubstitution\Incorrect\" />
-    <Folder Include="OpenClose\Correct\" />
-    <Folder Include="OpenClose\Incorrect\" />
-    <Folder Include="SingleResponsability\Correct\" />
-    <Folder Include="SingleResponsability\Incorrect\" />
+	<Folder Include="SingleResponsability\Correct\" />
+	<Folder Include="SingleResponsability\Incorrect\" />
   </ItemGroup>
 
 </Project>
